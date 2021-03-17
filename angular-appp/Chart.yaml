@@ -1,0 +1,4 @@
+apiVersion: v2
+version: 0.1.0
+name: angular-appp
+description: Chart to configure ArgoCD with the angular-appp project and its applications
